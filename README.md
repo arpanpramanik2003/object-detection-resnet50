@@ -1,7 +1,7 @@
 # CIFAR-10 Image Classification using ResNet50
 
 ## Introduction
-This project focuses on classifying images from the CIFAR-10 dataset using a deep learning model based on the ResNet50 architecture. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. Leveraging the power of the pre-trained ResNet50 model, the project aims to achieve high accuracy through transfer learning.
+This project focuses on classifying images from the CIFAR-10 dataset using a deep learning model based on the ResNet50 architecture. The CIFAR-10 dataset consists of 50,000 32x32 color images in 10 different classes, with 5,000 images per class. Leveraging the power of the pre-trained ResNet50 model, the project aims to achieve high accuracy through transfer learning.
 
 ## Project Overview
 The steps involved in the project are as follows:
